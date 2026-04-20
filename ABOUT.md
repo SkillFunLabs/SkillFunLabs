@@ -7,7 +7,7 @@
 
 ## 👋 Welcome to SkillFunLabs
 
-I'm Filipe A. D. Santiago — a systems optimizer, process hacker, and AI-driven thinker with a welding torch in one hand and a keyboard in the other.  
+I'm Filipe Santiago — a systems optimizer, process hacker, and AI-driven thinker with a welding torch in one hand and a keyboard in the other.  
 This space is where I bring metal, logic and automation together.
 
 ---
@@ -22,6 +22,8 @@ This space is where I bring metal, logic and automation together.
 
 ## 📫 Contact
 
+- 🌍 [TrocasPT.com](https://trocaspt.com)
+- 📬 Email: `contacto@trocaspt.com`
 - 🌍 [MindwaveCompanion.com](https://mindwavecompanion.com)
 - 📎 [LinkedIn](https://linkedin.com/in/santiagofs)
 - 📬 Email: `F.Santiago.Dev@proton.me`
